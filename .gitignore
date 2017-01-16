@@ -16,7 +16,6 @@ sites/default/settings.php
 
 .htaccess
 libraries
-modules
 core
 profiles
 sites
