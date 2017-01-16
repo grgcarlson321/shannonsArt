@@ -23,7 +23,14 @@
     float: left;
 
 }
+div.boxInner img{
+margin-left:auto;
+margin-right:auto;
 
+}
+article.homepage h2{
+	display:none;
+}
 .featured-image{
     width:700px;
     height:auto;
