@@ -28,9 +28,18 @@ margin-left:auto;
 margin-right:auto;
 
 }
-/*article.homepage h2{*/
-	/*display:none;*/
-/*}*/
+article.homepage h2{
+    margin:30px;
+    margin-top:0px;
+    font-size: 30px;
+    text-align: center;
+}
+article.homepage a{
+    color: #000000;
+    pointer-events: none;
+    cursor: default;
+
+}
 .featured-image{
     width:700px;
     height:auto;
